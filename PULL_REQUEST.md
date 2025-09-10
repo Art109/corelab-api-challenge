@@ -75,7 +75,6 @@ Implementei uma aplicação completa de gerenciamento de tarefas atendendo todos
 - React 18 + TypeScript
 - Vite
 - Axios
-- CSS Modules
 
 ## 📁 Estrutura Real do Projeto
 
@@ -222,19 +221,10 @@ Validação: Dados frontend e backend
 
 Error Handling: Tratamento de erros de rede
 
-📈 Métricas de Qualidade
-Cobertura TypeScript: 100% dos componentes tipados
-
-Componentes Reutilizáveis: 85% dos componentes
-
-Tempo de Load: < 2s em 3G
-
-Performance: Lighthouse Score > 90
-
 Acessibilidade: HTML semântico e ARIA labels
 
 🚀 Melhorias Futuras
-Testes Automatizados: Jest + Testing Library
+Testes Automatizados:
 
 Autenticação: Sistema de usuários
 
